@@ -31,6 +31,7 @@ hide_description: false
         <label>Your Message <span class="required">*</span></label>
         <textarea name="field5" id="field5" class="field-long field-textarea"></textarea>
     </li>
+  <div data-netlify-recaptcha></div>
     <li>
         <input type="submit" value="Submit" />
     </li>
