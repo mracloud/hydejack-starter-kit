@@ -5,12 +5,6 @@ menu: true
 order: 6
 ---
 <form name="contact" method="POST" netlify>
-    <p>
-    <label>Your Role: <select name="role[]" multiple>
-      <option value="herr">Herr</option>
-      <option value="frau">Frau</option>
-    </select></label>
-  </p>
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
