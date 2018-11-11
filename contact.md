@@ -1,6 +1,8 @@
 ---
 layout:     page
 title:      Contact
+menu: true
+order: 6
 ---
 <form name="contact" method="POST" netlify>
     <p>
