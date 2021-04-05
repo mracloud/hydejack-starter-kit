@@ -225,6 +225,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-titles-from-headings
+  - jekyll-include-cache
 
 # Theme
 # ---------------------------------------------------------------------------------------
